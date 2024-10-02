@@ -1,0 +1,16 @@
+{
+  "app_name": "TestApp",
+  "test": "test",
+  "create_network":"Create Network!",
+  "text_bottom_slider": "دوستانت رو به زیباشهر دعوت کن و شبکه خودتو بساز!",
+  "nav_home_icon": "home",
+  "nav_festival_icon": "festival",
+  "nav_store_icon": "store",
+  "nav_charity_icon": "charity",
+  "credit": "credit",
+  "scores": "scores",
+  "score": "score",
+  "currency_unit": "$",
+  "txt_slider": "beauty city"
+
+}
