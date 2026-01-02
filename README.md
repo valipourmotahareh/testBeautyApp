@@ -1,16 +1,30 @@
-# test_beauty_city
+# Test Beauty App
 
-test beauty city
+This repository contains a sample Flutter application developed as a
+**technical assignment for a company evaluation process**.
 
-## Getting Started
+The goal of this project was to demonstrate:
+- Flutter fundamentals
+- Clean and readable code
+- Basic architectural decisions
+- UI implementation based on given requirements
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- Basic state management
+- REST API / mock data (based on task scope)
 
-A few resources to get you started if this is your first Flutter project:
+## Scope
+This project was implemented within a limited timeframe and according to
+specific task requirements provided by the company.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It is **not intended to be a full production-ready application**, but rather
+a focused demonstration of problem-solving and implementation skills.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+Completed (Company Technical Task)
+
+## Notes
+Some features or refinements may be intentionally minimal, as the implementation
+follows the original task constraints.
